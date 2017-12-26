@@ -1,1 +1,2 @@
 Hi Git is very easy.
+Second Stage of GIT.
